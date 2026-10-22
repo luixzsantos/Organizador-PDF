@@ -1,0 +1,18 @@
+# Cache do Python (não versionar)
+__pycache__/
+*.pyc
+
+# Arquivos gerados pelo PyInstaller (build do .exe)
+build/
+dist/
+*.spec
+
+# Executável gerado (não é código-fonte)
+*.exe
+
+# Configuração pessoal com caminhos do seu PC
+organizador_config.ini
+config.ini
+
+# Instruções locais
+LEIA-ME.txt
